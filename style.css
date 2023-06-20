@@ -47,6 +47,9 @@ body {
 
 /* header styling */
 
+main {
+  width: 100%;
+}
 header {
   display: flex;
   align-items: center;
@@ -1087,5 +1090,27 @@ footer a i {
 
   .img-about p {
     font-size: 1rem;
+  }
+}
+
+
+@media (max-width: 473px) {
+  html {
+    font-size: 55%;
+  }
+  .home {
+    padding: 0;
+    padding-left: .8rem;
+  }
+  .btn-box {
+    /* display: inline-block; */
+    width: 25rem;
+    margin: 0 auto;
+  }
+  .home-content h1 {
+    text-align: center;
+  }
+  .change-text {
+    margin-left: 25%;
   }
 }
