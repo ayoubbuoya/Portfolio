@@ -1136,5 +1136,14 @@ footer a i {
     text-align: center;
     margin-left: 9rem;
   }
+
+  .about-content {
+    text-align: center;
+  }
+
+  footer p {
+    font-size: 1rem;
+    font-weight: 600;
+  }
   
 }
