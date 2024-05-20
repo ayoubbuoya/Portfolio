@@ -19,9 +19,9 @@ The website is built using HTML, CSS, and JavaScript. It is designed to be respo
 
 ## Contact
 
-For any inquiries or questions, you can reach me at ayoubamerrr290@gmail.com.
+For any inquiries or questions, you can reach me at ayouub.ameur@gmail.com.
 
-Connect with me on LinkedIn: [Ayoub Amer](https://www.linkedin.com/in/ayoub-amer-285b67190/)
+Connect with me on LinkedIn: [Ayoub Amer](https://www.linkedin.com/in/amer-ayoub/)
 
 ---
 
