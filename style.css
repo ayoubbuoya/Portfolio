@@ -726,6 +726,7 @@ section {
   text-align: center;
   transition: 0.5s;
   padding: 0 2rem;
+  cursor: pointer;
 }
 
 .port-box:hover .port-content {
@@ -737,14 +738,15 @@ section {
 }
 
 .port-content h3 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   letter-spacing: 2px;
-  font-weight: bolder;
+  font-weight: 600;
   /* color: var(--hover-color); */
-  color: #000;
+  color: #4b4545;
 }
 
 .port-content p {
+  display: none;
   font-size: 1.2rem;
   letter-spacing: 1px;
   line-height: 1.2;
